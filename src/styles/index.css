@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.w-minus-128 {
+  width: calc(100% - 512px);
+}
